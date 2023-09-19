@@ -2,4 +2,4 @@
 
 This is an exercise repository.
 
-This is a chaneg to the readme.
+This is a change to the readme.
