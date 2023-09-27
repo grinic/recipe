@@ -16,3 +16,15 @@ change made by gmail account.
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+
+<details>
+<summary>
+Short summary
+</summary>
+
+This will appear only when clicking on the arrow.
+</details>
+
+[![any text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
+
+![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)
